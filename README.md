@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose is to help Louise compare similar theater/play campaigns to help her determine the best time to launch her campaign. 
+We're helping Louise compare similar theater/play campaigns to help her determine the best time to launch her campaign. 
 
 ## Analysis and Challenges
 
