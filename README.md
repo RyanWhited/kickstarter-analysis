@@ -27,7 +27,7 @@ Initially ran into challenges with the formulas for the "Outcomes Based on Goals
 1. The best time to launch a campaign is in the month of May. 
 2. The worst time to launch a campaign is in the month of December where nearly 50% of the 75 campaigns were either successful or failed.
 
-![Theater Outcomes vs Launch](RyanWhited/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)   
+![Theater Outcomes vs Launch](https://github.com/RyanWhited/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)   
 
 - What can you conclude about the Outcomes based on Goals?
 
