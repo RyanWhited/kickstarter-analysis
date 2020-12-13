@@ -1,10 +1,43 @@
-# An Analysis of Kickstarter Campaigns
-We have analyzed data from 4,115 kickstarter campaigns from around the globe to help guide you in the right direction for your campaign and this is what we learned:
----
-We found that failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. 
-![Descriptive Statistics](https://gdurl.com/ycy0)
+# Kickstarting with Excel
 
-The best time of year to begin your kickstarter campaign are in the months of May and June. 
-![Outcomes Based on Launch Date](https://gdurl.com/0dqx)
+## Overview of Project
 
-Regarding your interest in starting a musical in Great Britain, we've determined you should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000.
+### Purpose
+
+The purpose is to help Louise compare similar theater/play campaigns to help her determine the best time to launch her campaign. 
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+We looked at and compared the number of successful, failed, and canceled kickstarter campaigns based on the month they started. 
+
+### Analysis of Outcomes Based on Goals
+
+We looked at and compared the number of successful, failed, and canceled kickstarter campaigns based on different ranges of funding goals. 
+
+### Challenges and Difficulties Encountered
+
+Initially ran into challenges with the formulas for the "Outcomes Based on Goals" section with improper set ranges. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+1. The best time to launch a campaign is in the month of May where 111 of of 166 campaigns were successful. 
+2. The worst time to launch a campaign is in the month of December where 35 of the 75 campaigns failed. 
+
+- What can you conclude about the Outcomes based on Goals?
+
+* Campaigns with goals less than $5,000 have the highest rate of success at over 73% (76% less than $1,000). 
+* Goals between $5,000 - $25,000 have around a 50% success rate.
+* Campaigns over $25,000 have at 27% or less success rate. 
+
+- What are some limitations of this dataset?
+
+* These campaigns are not specified by their country for Outcomes based on Goals and Launch Date. 
+* Not enough samples of campaigns with goals above $25,000.
+
+- What are some other possible tables and/or graphs that we could create?
+
+* We could utilize bar charts for a different visulation of the results.
