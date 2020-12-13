@@ -18,7 +18,7 @@ We looked at and compared the number of successful, failed, and canceled kicksta
 
 ### Challenges and Difficulties Encountered
 
-Initially ran into challenges with the formulas for the "Outcomes Based on Goals" section with improper set ranges. 
+Initially ran into challenges with the formulas for the Outcomes Based on Goals section with improper set ranges. 
 
 ## Results
 
@@ -33,7 +33,7 @@ Initially ran into challenges with the formulas for the "Outcomes Based on Goals
 
   - Campaigns with goals less than $5,000 have the highest rate of success at over 73% (76% less than $1,000). 
   - Goals between $5,000 - $25,000 have around a 50% success rate.
-  - Campaigns over $25,000 have at 27% or less success rate. 
+  - Campaigns over $25,000 have a 27% or less success rate. 
 
 ![Outcomes vs Goals](https://github.com/RyanWhited/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
