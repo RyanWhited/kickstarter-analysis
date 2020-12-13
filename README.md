@@ -31,7 +31,7 @@ Initially ran into challenges with the formulas for the Outcomes Based on Goals 
 
 - What can you conclude about the Outcomes based on Goals?
 
-  - Campaigns with goals less than $5,000 have the highest rate of success at over 73% (76% less than $1,000). 
+  - Campaigns with goals less than $5,000 have the highest rate of success at over 73% or better. Less than $1,000 goals saw 76% success rate.
   - Goals between $5,000 - $25,000 have around a 50% success rate.
   - Campaigns over $25,000 have a 27% or less success rate. 
 
